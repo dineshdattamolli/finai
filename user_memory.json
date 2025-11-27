@@ -1,0 +1,17 @@
+{
+  "default": {
+    "income": 2200.0,
+    "rent": 500.0,
+    "transport": 200.0,
+    "food": 200.0,
+    "other": 150.0,
+    "emi": 753.59,
+    "savings": 396.41,
+    "fixed_total": 1803.59,
+    "remaining_after_fixed": 396.41,
+    "savings_rate_pct": 18.02,
+    "tenure_years": 10.0,
+    "loan_amount": 53600.0,
+    "interest_rate": 11.5
+  }
+}
